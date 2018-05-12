@@ -7,5 +7,9 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Ed Freitas",
-    "license": "ISC"
+    "license": "ISC",
+    "dependencies": {
+        "request": "^2.85.0",
+        "slackbots": "^1.1.0"
+    }
 }
